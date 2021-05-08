@@ -1,2 +1,2 @@
-# Repositorio-teste
- Repositório para testes
+# Repositório de teste.
+ Repositório para testes e verificações.
